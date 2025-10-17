@@ -27,7 +27,3 @@ export const ADD_NEW_TASK = `/api/tasks/add`
 export const EDIT_TASK = `/api/tasks/edit`
 export const DELETE_TASK = `/api/tasks/delete`
 export const COMPLETE_TASK = `api/tasks/complete`
-
-export const GET_ALL_USERS = `/api/users`
-export const EDIT_USER = `/api/users/edit`
-export const DELETE_USER = `/api/users/delete`
